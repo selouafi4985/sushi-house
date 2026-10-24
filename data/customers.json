@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Nadia Rahmani",
+    "name": "Nadia Karim",
     "city": "Marrakech",
     "active": true
   },
   {
     "id": 2,
-    "name": "Yassine Amrani",
+    "name": "youssef Elouafi",
     "city": "Marrakech",
     "active": true
   },
   {
     "id": 3,
-    "name": "Salma Idrissi",
+    "name": "Aya elouafi",
     "city": "Casablanca",
     "active": true
   },
   {
     "id": 4,
-    "name": "Omar Bennani",
+    "name": "Amine Er-raiss",
     "city": "Rabat",
     "active": false
   },
   {
     "id": 5,
-    "name": "Imane Alaoui",
+    "name": "Khaoula Choukri",
     "city": "Marrakech",
     "active": true
   },
   {
     "id": 6,
-    "name": "Adam Tazi",
+    "name": "Fatima chaboubi",
     "city": "Agadir",
     "active": true
   }
