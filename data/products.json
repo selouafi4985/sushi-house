@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10,
+    "name": "Saumon Nigiri",
+    "category": "Sushi & Nigiri",
+    "price": 65,
+    "stock": 20,
+    "description": "6 pièces de saumon frais",
+    "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 11,
+    "name": "California Rolls",
+    "category": "Makis & Rolls",
+    "price": 75,
+    "stock": 25,
+    "description": "8 pièces avocat et sésame",
+    "image": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Mix Sushi",
+    "category": "Plateaux",
+    "price": 120,
+    "stock": 15,
+    "description": "Assortiment de 12 pièces",
+    "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Maki Avocat",
+    "category": "Makis & Rolls",
+    "price": 55,
+    "stock": 30,
+    "description": "8 pièces avocat et riz vinaigré",
+    "image": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Soupe Miso",
+    "category": "Entrées",
+    "price": 35,
+    "stock": 40,
+    "description": "Soupe japonaise traditionnelle",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Gyoza",
+    "category": "Entrées",
+    "price": 45,
+    "stock": 22,
+    "description": "6 raviolis japonais dorés",
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Pad Thai",
+    "category": "Cuisine thaïlandaise",
+    "price": 85,
+    "stock": 18,
+    "description": "Nouilles sautées façon thaï",
+    "image": "https://images.unsplash.com/photo-1559314809-0d155014e29e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 17,
+    "name": "Tempura Crevettes",
+    "category": "Cuisine japonaise",
+    "price": 95,
+    "stock": 12,
+    "description": "Crevettes croustillantes, 6 pièces",
+    "image": "https://images.unsplash.com/photo-1625938145744-e380515399bf?auto=format&fit=crop&w=900&q=80"
+  }
+]
