@@ -30,9 +30,15 @@ export function getOrderTotal(state, order) {
 }
 
 export function getRevenue(state) {
-  return state.orders
-    .filter(order => order.status !== "Annulee")
-    .reduce((sum, order) => sum + getOrderTotal(state, order), 0);
+  let total = 0;
+
+  state.orders.forEach(order => {
+    if (order.status !== "Annulee") {
+      total += getOrderTotal(state, order);
+    }
+  });
+
+  return total;
 }
 
 /* ---------- Filtres ---------- */
